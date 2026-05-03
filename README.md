@@ -16,7 +16,7 @@
 ---
 
 ## 🔗 Live Demo
-**View the Site:** 
+**View the Site:** https://mb-resort.vercel.app
 
 ---
 
